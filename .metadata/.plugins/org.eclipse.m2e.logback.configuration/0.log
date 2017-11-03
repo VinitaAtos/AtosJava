@@ -46,3 +46,12 @@
 2017-11-03 15:18:05,024 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-11-03 15:18:05,025 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\test\resources
 2017-11-03 15:18:32,621 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-11-03 15:29:38,067 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:29:38,078 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\main\resources
+2017-11-03 15:29:38,080 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:29:38,081 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\test\resources
+2017-11-03 16:20:05,469 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AtosProject:AtosProject:0.0.1-SNAPSHOT @ C:\Users\A661233\Desktop\Newfolder\AtosProject\pom.xml.
+2017-11-03 16:21:32,661 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 16:21:32,663 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\main\resources
+2017-11-03 16:21:32,667 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 16:21:32,668 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\test\resources
