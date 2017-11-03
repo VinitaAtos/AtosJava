@@ -1,0 +1,48 @@
+2017-11-03 15:15:31,862 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AtosProject:AtosProject:0.0.1-SNAPSHOT @ C:\Users\A661233\Desktop\Newfolder\AtosProject\pom.xml.
+2017-11-03 15:15:34,566 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-11-03 15:15:41,516 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:15:41,684 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\main\resources
+2017-11-03 15:15:41,688 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:15:41,690 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\test\resources
+2017-11-03 15:15:41,858 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AtosProject/src
+2017-11-03 15:15:41,859 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /AtosProject/src/test/java because it overlaps with /AtosProject/src
+2017-11-03 15:15:43,097 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:15:43,099 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\main\resources
+2017-11-03 15:15:43,102 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:15:43,103 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\test\resources
+2017-11-03 15:15:44,653 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:15:44,655 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\main\resources
+2017-11-03 15:15:44,657 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:15:44,659 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\test\resources
+2017-11-03 15:15:44,863 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-11-03 15:15:46,221 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AtosProject:AtosProject:0.0.1-SNAPSHOT @ C:\Users\A661233\Desktop\Newfolder\AtosProject\pom.xml.
+2017-11-03 15:15:48,603 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:15:48,622 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\main\resources
+2017-11-03 15:15:48,625 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:15:48,626 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\test\resources
+2017-11-03 15:15:48,627 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AtosProject
+2017-11-03 15:15:48,637 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AtosProject
+2017-11-03 15:15:49,226 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:15:49,314 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AtosProject/src
+2017-11-03 15:15:49,316 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /AtosProject/src/test/java because it overlaps with /AtosProject/src
+2017-11-03 15:15:49,778 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AtosProject
+2017-11-03 15:15:49,931 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2017-11-03 15:15:50,313 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:15:50,315 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\main\resources
+2017-11-03 15:15:50,318 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:15:50,319 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\test\resources
+2017-11-03 15:15:50,675 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\A661233\Desktop\Newfolder\AtosProject
+2017-11-03 15:15:50,676 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2017-11-03 15:16:23,111 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:16:23,112 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\main\resources
+2017-11-03 15:16:23,113 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:16:23,114 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\test\resources
+2017-11-03 15:17:14,568 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-11-03 15:17:22,043 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\A661233\Desktop\Newfolder\AtosProject
+2017-11-03 15:17:22,044 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2017-11-03 15:17:56,602 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AtosProject:AtosProject:0.0.1-SNAPSHOT @ C:\Users\A661233\Desktop\Newfolder\AtosProject\pom.xml.
+2017-11-03 15:18:05,002 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:18:05,022 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\main\resources
+2017-11-03 15:18:05,024 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-03 15:18:05,025 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\A661233\Desktop\Newfolder\AtosProject\src\test\resources
+2017-11-03 15:18:32,621 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
